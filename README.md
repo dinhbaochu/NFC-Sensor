@@ -1,1 +1,1 @@
-NFC sensor is a sensor interface based on Near-field communcation (NFC) interface. The platform include Microcontroller (in this project is Atmel), NFC IC (NXP NT3H2111), using to collect the sensor value then transfer to reader via NFC protocol.
+NFC sensor is a sensor interface based on a Near-field communication (NFC) interface. The platform includes a Microcontroller (in this project is Atmel Attiny48), and NFC IC (NXP NT3H2111), used to collect the sensor value and then transfer it to the reader via NFC protocol.
